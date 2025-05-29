@@ -15,12 +15,6 @@
 ## Ticket references
 - [](https://freedom.myjetbrains.com/youtrack/issue/)
 
-## Summary of requirements
-<!--
-    Describe the requirements.
-    Include agreed-upon requirements from slack and other channels of communication.
--->
-
 ## Summary of changes
 <!--
     Describe the change and why it was introduced. Ideally, this will also be
@@ -31,20 +25,21 @@
 
     Include screenshots, if possible.
 -->
+## Type
+- [ ] feature
+- [ ] bugfix
+- [ ] enhancement
 
 ## Checklist
 <!--
      Mark the things that have been followed.
 -->
-- [ ] bugfix
-- [ ] new feature
-- [ ] breaking change
 - [ ] added unit tests
 - [ ] changes introduced has been discussed and approved
 - [ ] requires manual testing
 - [ ] documentation has been updated
 
-## Testing
+## Tests
 <!--
     Include this if we need manual testing and not a unit test.
     If the tests do not reach 10 lines, add it here, else move it to a document and link it to this section.
