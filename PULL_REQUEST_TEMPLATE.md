@@ -25,6 +25,7 @@
 
     Include screenshots, if possible.
 -->
+
 ## Type
 - [ ] feature
 - [ ] bugfix
@@ -35,9 +36,9 @@
      Mark the things that have been followed.
 -->
 - [ ] added unit tests
-- [ ] changes introduced has been discussed and approved
 - [ ] requires manual testing
 - [ ] documentation has been updated
+- [ ] changes introduced has been discussed and approved
 
 ## Tests
 <!--
